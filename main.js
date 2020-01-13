@@ -1,6 +1,5 @@
 const { addData, dataExist } = require('./utils');
 
-
 const bfSize = new Array(100000);
 bfSize.fill(false);
 
